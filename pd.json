@@ -1,4 +1,12 @@
 [
-  {"src": "https://raw.githubusercontent.com/dimeus/subtitle2023/main/65.2023.VN.1.32.49.vtt", "label": "Language1", "default": true},
-  {"src": "https://raw.githubusercontent.com/dimeus/subtitle2023/main/65.2023.VN.1.32.49.vtt", "label": "Language2"}
+    {
+        file: "https://domain.com/file1.vtt",
+        label: "English",
+        kind: "captions"
+    },
+    {
+        file: "https://domain.com/file2.vtt",
+        label: "Japanese",
+        kind: "captions"
+    }
 ]
